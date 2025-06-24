@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @drohit242
-- 👀 I’m interested in Part Time Remote Opportunity as Oracle Forms and Reports Developer
-- 🌱 I’m currently learning Oracle Apex
-- 💞️ I’m looking to collaborate on Part Time Remote Opportunity as Oracle Forms and Reports Developer
-- 📫 You can reach me directly at +44 7724129815 or at drohit242@gmail.com
+
 
 <!---
 Results-oriented Software Engineering professional with more than 7 years of experience in the field of Enterprise Resource Planning (ERP) on Oracle Platform (Oracle Fusion Middleware). Strong knowledge in Business Application development using: 
